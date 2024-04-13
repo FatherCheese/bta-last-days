@@ -3,4 +3,4 @@ Originally created by Doku.
 
 A community post-apocalypse pack, now for BTA!
 
-LARGELY UNFINISHED, HELP WANTED!
+Fooltaurus branch, help the main branch.
